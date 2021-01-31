@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ben Nichols</h1>
 <h3 align="center">A passionate developer currently attending university</h3>
 <p align="center"><b>Currently working on Vectorio | https://github.com/Vitzual/Vectorio</b></p>
-<p align="center">Connect with me and my team: 
-<a href="https://discord.gg/https://discord.gg/XzDdGSQytN" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/XzDdGSQytN" height="30" width="40" /></a></p>
+<p align="center">Connect with my team and I: 
+<a href="https://discord.gg/https://discord.gg/XzDdGSQytN" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" alt="https://discord.gg/XzDdGSQytN" height="30" width="30" /></a></p>
 
 
 <h3 align="center">Languages and Tools:</h3>
